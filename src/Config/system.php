@@ -10,7 +10,7 @@ return [
         'key'  => 'general.api.pushnotification',
         'name' => 'bagisto_graphql::app.admin.configuration.index.general.graphql-api.push-notification-configuration',
         'sort' => 1,
-
+        'info' => 'bagisto_graphql::app.admin.configuration.index.general.graphql-api.info',
         'fields' => [
             [
                 'name'          => 'server_key',
