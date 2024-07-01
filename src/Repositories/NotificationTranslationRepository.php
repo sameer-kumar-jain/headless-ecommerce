@@ -13,6 +13,6 @@ class NotificationTranslationRepository extends Repository
      */
     public function model()
     {
-        return \Webkul\GraphQLAPI\Contracts\PushNotificationTranslation::class;
+        return "Webkul\GraphQLAPI\Models\PushNotificationTranslation";
     }
 }
