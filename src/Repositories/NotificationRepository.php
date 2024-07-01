@@ -38,7 +38,7 @@ class NotificationRepository extends Repository
      */
     public function model()
     {
-        return \Webkul\GraphQLAPI\Contracts\PushNotification::class;
+        return "Webkul\GraphQLAPI\Models\PushNotification";
     }
 
     /**
