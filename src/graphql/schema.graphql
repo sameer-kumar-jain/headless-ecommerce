@@ -23,21 +23,15 @@ scalar Upload
 #import /admin/customer/groups/*.graphql
 #import /admin/customer/reviews/*.graphql
 
-#import /admin/cms/*.graphql
-
 #import /admin/marketing/promotions/*.graphql
 #import /admin/marketing/communications/*.graphql
 #import /admin/marketing/sitemaps/*.graphql
-
-#import /admin/reporting/sales/*.graphql
-#import /admin/reporting/customers/*.graphql
-#import /admin/reporting/products/*.graphql
 
 #import /admin/setting/locales/*.graphql
 #import /admin/setting/currencies/*.graphql
 #import /admin/setting/exchange-rates/*.graphql
 #import /admin/setting/inventory-sources/*.graphql
-#import /admin/setting/channels/*.graphql
+#import /admin/setting/channels/*.graphql 
 #import /admin/setting/users/*.graphql
 #import /admin/setting/roles/*.graphql
 #import /admin/setting/themes/*.graphql
